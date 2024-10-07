@@ -1,0 +1,1 @@
+There is one model file that i cant upload in here due to github's upload limit, so here is the link to that file named model.safetensors: https://drive.google.com/drive/folders/1TbLdcxBysc_i5ClxKq4PFgqixZQpPp1e?usp=sharing 
